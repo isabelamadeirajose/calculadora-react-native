@@ -26,3 +26,10 @@ Objetivo: compreender o uso de componentes, frameworks visuais e Hooks em React 
 ```bash
 npm install
 npx expo start
+
+## Referências
+
+- Slides: *Gerenciamento de Estado e Componentização em React Native* — Prof. Thyerri Mezzari, UNISATC
+- [React Native Paper](https://reactnativepaper.com/)
+- [Documentação Expo](https://docs.expo.dev/)
+- [React Hooks — useState e useEffect](https://pt-br.reactjs.org/docs/hooks-reference.html)
