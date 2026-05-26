@@ -26,6 +26,7 @@ Objetivo: compreender o uso de componentes, frameworks visuais e Hooks em React 
 ```bash
 npm install
 npx expo start
+```
 
 ## Referências
 
